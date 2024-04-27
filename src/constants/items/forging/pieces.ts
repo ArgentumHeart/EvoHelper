@@ -43,6 +43,16 @@ export const pieces: { [id: string]: EvoItem } = {
     crafting: [],
     source: 'Blacksmith',
   },
+  'Dull Armor Piece': {
+    id: 'Dull Armor Piece',
+    restriction: EvoItemRestictions.FORGE,
+    rarity: EvoRarity.UNCOMMON,
+    icon: 'ArmorPiece',
+    description: '',
+    effects: [],
+    crafting: [],
+    source: 'Blacksmith',
+  },
   'Rare Armor Piece': {
     id: 'Rare Armor Piece',
     restriction: EvoItemRestictions.FORGE,

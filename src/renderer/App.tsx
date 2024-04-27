@@ -18,9 +18,10 @@ import { FishingPage } from './pages/FishingPage';
 
 export default function App() {
   const { loadClasses } = useCharacterContext();
+  loadClasses();
 
   return (
-    <Router initialEntries={['/settings']}>
+    <Router initialEntries={[ '/characters' ]}>
       <ThemeProvider theme={theme}>
         <Box sx={{ display: 'flex' }}>
           <CssBaseline />

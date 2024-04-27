@@ -4,7 +4,7 @@ import { EvoItem } from '../item';
 
 export const angelCloudsItems: { [id: string]: EvoItem } = {
   'Corrupted Crystal': {
-    id: 'Paw of Lightning',
+    id: 'Corrupted Crystal',
     restriction: EvoItemRestictions.ALL_CLASSES,
     rarity: EvoRarity.FORGED,
     icon: 'BTNBlackPlague',

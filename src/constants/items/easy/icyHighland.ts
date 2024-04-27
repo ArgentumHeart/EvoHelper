@@ -63,7 +63,7 @@ export const icyHighlandItems: { [id: string]: EvoItem } = {
     effects: ['+6 Damage', '+200 Mana'],
     source: 'Icy Highland',
   },
-  Frostfang: {
+  'Frostfang': {
     id: 'Frostfang',
     restriction: EvoItemRestictions.MELEE,
     rarity: EvoRarity.RARE,

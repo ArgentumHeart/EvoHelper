@@ -101,7 +101,7 @@ export const alterEgoItems: { [id: string]: EvoItem } = {
       'Passive: Gains immolation that deals 12,500 Magic DPS to all nearby enemies.'
     ],
     crafting: [
-      'Demonforged Plate',
+      'Demonforge Plate',
       'Amethyst',
       'Blessing of Darkness',
       'Sphere of Doom',

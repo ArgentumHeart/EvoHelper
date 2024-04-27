@@ -76,7 +76,7 @@ export const angelNature: { [id: string]: EvoItem } = {
       '+15% Mana efficiency',
     ],
     crafting: [
-      'Atlantean Tome',
+      "Atlantean's Tome",
       'Diamond',
       'Mythical Handle Piece',
       'Draconic Trinity',

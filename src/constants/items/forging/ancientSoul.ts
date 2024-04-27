@@ -93,7 +93,7 @@ export const ancientSoulItems: { [id: string]: EvoItem } = {
       'Passive: Negate one instance of Physical Damage and grants 800 Armor for 2.5 seconds. Cooldown 30s.',
     ],
     crafting: [
-      "Hades's Artifact",
+      "Hades' Artifact",
       'Cursed Artifact',
       'Sealed Demise',
       "Harbinger's Essence",
